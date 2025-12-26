@@ -6,3 +6,4 @@ terraform.tfvars
 terraform.tfvars.json
 crash.log
 .terraform.lock.hcl
+.terraform/providers/registry.terraform.io/hashicorp/aws/6.27.0/windows_386/terraform-provider-aws_v6.27.0_x5.exe
